@@ -128,7 +128,7 @@ Minha meta é atuar como QA Engineer, contribuindo para a qualidade e estabilida
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=crstnns&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
