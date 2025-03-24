@@ -78,14 +78,6 @@ Minha meta é atuar como QA Engineer, contribuindo para a qualidade e estabilida
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Nodejs" 
-    title="Nodejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
 
 
 <img 
