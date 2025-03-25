@@ -6,7 +6,12 @@ Sou um profissional de 29 anos com sólida experiência em suporte técnico e at
 Busco consolidar minha carreira em QA, aplicando meu conhecimento técnico e aprimorando minhas competências em testes manuais e automatizados. Já conquistei conhecimentos em plano de testes, gestão de bugs e ferramentas essenciais como Cypress, Robot Framework, Postman e Playwright. Além disso, possuo formação em metodologias ágeis (Scrum, Kanban e Business Agility). 
 
 Minha meta é atuar como QA Engineer, contribuindo para a qualidade e estabilidade de sistemas por meio de testes eficientes e processos ágeis. Estou sempre me atualizando, buscando conhecimento contínuo e novas certificações para aprimorar minhas habilidades na área.
-
+<div> 
+    <a href="https://www.instagram.com/cristianneri_?igsh=MWw0MGlvYTc5eGZlZQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:cristian.neri57@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="www.linkedin.com/in/cristian-neri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ### 🤖 Linguagens e Ferramentas
 
